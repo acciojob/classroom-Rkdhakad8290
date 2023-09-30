@@ -7,7 +7,6 @@ public class Student {
     private double averageScore;
 
     public Student(){
-
     }
 
     public Student(String name, int age, double averageScore) {
